@@ -1,0 +1,15 @@
+.product-page {
+    display: flex;
+    justify-content: flex-start;
+    width: 1700px;
+    margin: auto;
+    padding-top: 62px;
+}
+
+.filter-section {
+    padding-right: 40px;
+}
+
+.table-section {
+    flex-grow: 1;
+}

@@ -1,0 +1,13 @@
+:root {
+    --light-gray-text: #878B8D;
+    --light-gray-background: #F5F5F6;
+}
+
+.App {
+    font-family: Avenir,Helvetica Neue,Helvetica,Arial,Tahoma,Roboto-Regular,Roboto,sans-serif;
+    background-color: var(--light-gray-background);
+}
+
+.bg-gray-light {
+    background-color: var(--light-gray-background) !important;
+}
